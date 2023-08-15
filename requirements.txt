@@ -3,7 +3,8 @@ pip~=23.1.2
 wheel~=0.40.0
 setuptools~=67.8.0
 Django~=4.2.4
-pysqlite3
+Pillow
+gunicorn
 asgiref~=3.7.2
 sqlparse~=0.4.4
 requests~=2.31.0
